@@ -6,7 +6,7 @@ The basic components of the 8051 microcontroller include multiple on-chip periph
 
 As a soft-core microcontroller, the OC8051 overcomes the hardware limitations of the 8051 chip, allowing for the expansion of on-chip ROM and RAM space based on signal width to run larger program code. It also enables the separation of the P3 interface from external interrupt inputs and timer/counter inputs, allowing for independent operation and freeing up multiplexed pins.
 
-<img src="pic/UAC2_I2S.jpg" align="right">
+<img src="pic/OC8051 pic 1.jpg" align="right">
 The structural block diagram of the OC8051 microcontroller is shown in Figure
 2-1.
 
