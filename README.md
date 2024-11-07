@@ -10,6 +10,8 @@ As a soft-core microcontroller, the OC8051 overcomes the hardware limitations of
 The structural block diagram of the OC8051 microcontroller is shown in Figure
 2-1.
 
+&nbsp;
+
 ## The features of the OC8051 microcontroller include:
 
 * An 8-bit microcontroller optimized for control applications
